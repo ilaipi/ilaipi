@@ -1,6 +1,13 @@
 ### Hi there 👋
 
-![]( https://visitor-badge.glitch.me/badge?page_id=V7161sZzLJa6cicZxJJHZM2Sat4REKX)
+🙋 I'm ilaipi, from china, thank you very much for visiting my home page.
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/?username=ilaipi&show_icons=true&count_private=true&line_height=30&hide_border=1&card_width=450&role=OWNER,COLLABORATOR" alt="ilaipi's github stats"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilaipi&layout=compact&langs_count=10&hide_border=1&role=OWNER,COLLABORATOR"/>
+
+### Links
+- [Blog](https://ilaipi.com)
 <!--
 **ilaipi/ilaipi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
